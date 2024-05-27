@@ -1,0 +1,3 @@
+Welcome to PY 101 class 
+I am happy to have you all in my class
+How are you doing today?

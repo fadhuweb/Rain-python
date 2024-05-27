@@ -1,0 +1,14 @@
+Steps Involved in building a ML Model
+1. Identify and understand the business need
+2. Get the data
+3. Exploratory data analysis
+4. Data cleaning and preprocessing (missing values / inconsistency / outliers/
+range of data, encoding categorical variables etc )
+5. Split data into independent and 
+dependent features(select relevant independent features for training). 
+6. split data into trainset and test set (70-80% : 20%-30%)
+7. choose a suitable algorithm for your model 
+8. train the model on the trainset using the chosen algorithm (fit method)
+9. make predictions on the test set using the trained model
+10. Evaluate the performance of your model using evaluation metrics
+11. deploy model if performance is great. other wise, go back to step 7/8
